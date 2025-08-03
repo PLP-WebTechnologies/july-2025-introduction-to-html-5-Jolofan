@@ -33,3 +33,15 @@ A single HTML file named `index.html`. It should include:
 * Apply basic on-page SEO techniques.
 * Follow clean, readable HTML code structure.
 
+
+## Student Notes - PLP Web development assignment: HTML5 + Accessibility & SEO Basics
+
+## 📝 Assignment Overview
+
+This assignment demonstrates my understanding of:
+
+- ✅ HTML5 semantic structure  
+- ✅ Basic accessibility principles (e.g., `aria-labels`, landmarks)  
+- ✅ Foundational SEO techniques (metadata, headings)  
+- ✅ Clean, readable HTML code
+
